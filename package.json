@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Nikesh Posam Porfolio Website",
+  "private": true,
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html -d docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikeshposam/nikeshposam.github.io.git"
+  },
+  "author": "Nikesh Posam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikeshposam/nikeshposam.github.io/issues"
+  },
+  "homepage": "https://github.com/nikeshposam/nikeshposam.github.io#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.2",
+    "typescript": "^4.1.3"
+  }
+}
