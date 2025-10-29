@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/index.ts"],"names":[],"mappings":";AAAA,IAAM,EAAgB,QAEtB,QAAQ,IAAI","file":"js.7cfdd331.js","sourceRoot":"..","sourcesContent":["const greet: string = \"Hello\";\r\n\r\nconsole.log(greet);"]}
